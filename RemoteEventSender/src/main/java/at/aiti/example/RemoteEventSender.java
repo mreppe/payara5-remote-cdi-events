@@ -6,10 +6,6 @@ import javax.enterprise.context.ApplicationScoped;
 import javax.enterprise.event.Event;
 import javax.inject.Inject;
 
-/**
- *
- * @author reppe
- */
 @ApplicationScoped
 public class RemoteEventSender {    
 

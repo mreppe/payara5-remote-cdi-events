@@ -5,10 +5,6 @@ import javax.inject.Inject;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 
-/**
- *
- * @author reppe
- */
 @Stateless
 @Path("test")
 public class TestResource {
